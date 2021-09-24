@@ -1,0 +1,5 @@
+2021-09-24 21:15:47.824489: Water drank: 330
+ and3170ml left2021-09-24 21:16:19.600952: Water drank: 100
+ and3400 ml left2021-09-24 21:44:59.089998: Water drank: 200
+ and 3300 ml left2021-09-24 21:46:48.144827: Water drank: 200
+ and 3300 ml left

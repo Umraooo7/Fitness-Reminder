@@ -1,0 +1,4 @@
+2021-09-24 23:42:44.775194: Workout done
+2021-09-24 23:42:56.567232: Workout done
+2021-09-24 23:45:08.759246: Workout done
+2021-09-24 23:45:23.271814: Water drank: 300 ml and 3200 ml water left
